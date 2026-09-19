@@ -1,0 +1,32 @@
+# Obsidian local configuration, plugins, caches, and workspace state
+.obsidian/
+
+# Obsidian trash and local sync/version-history directories
+.trash/
+.sync/
+.history/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux metadata
+*~
+.directory
+
+# Editor and temporary files
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+
+# Logs
+*.log
